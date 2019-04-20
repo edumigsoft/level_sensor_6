@@ -13,7 +13,7 @@ TELEGRAM_TOKEN = "X"
 TELEGRAM_TIMEOUT = 3.0
 
 #Somente funcionol com esta configuração
-FIREBASE_HOST = "sensor-nivel-2.firebaseio.com"
+FIREBASE_HOST = "X"
 FIREBASE_AUTH = "X"
 FIREBASE_LED_STATUS = "LEDStatus"
 FIREBASE_LAST_MESSAGE = "last_message"
